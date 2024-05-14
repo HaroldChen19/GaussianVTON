@@ -32,6 +32,8 @@ perspective on 3D VTON while also establishing a novel starting point for image-
 
 - **[2024/05/14]** Upload paper and release partial code.
 
+## Quick Start
+
 Full code coming soon!
 
 
