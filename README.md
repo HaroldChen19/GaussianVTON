@@ -1,8 +1,8 @@
 # GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting
 
-[Haodong Chen](https://haroldchen19.github.io/)<sup>😎</sup>, [Yongle Huang](https://github.com/KyleHuang9)<sup>😎</sup>, [Haojian Huang](https://github.com/JethroJames)<sup>🥳</sup>, Xiangsheng Ge<sup>😎</sup>, [Dian Shao](https://scholar.google.com/citations?hl=en&user=amxDSLoAAAAJ&view_op=list_works&sortby=pubdate)<sup>😎</sup>
+[Haodong Chen](https://haroldchen19.github.io/)<sup>😎</sup>, [Yongle Huang](https://github.com/KyleHuang9)<sup>😎</sup>, [Haojian Huang](https://github.com/JethroJames)<sup>🥳</sup>, Xiangsheng Ge<sup>😎</sup>, [Dian Shao](https://scholar.google.com/citations?hl=en&user=amxDSLoAAAAJ&view_op=list_works&sortby=pubdate)<sup>😎🤩</sup>
 
-<sup>😎</sup>Northwestern Polytechnical University, <sup>🥳</sup>The University of Hong Kong (Correspondence: Dian Shao).
+<sup>😎</sup>Northwestern Polytechnical University, <sup>🥳</sup>The University of Hong Kong; <sup>🤩</sup>Corresponding Author
 
 <p align="center">
   <a href='https://arxiv.org/abs/2405.07472'>
