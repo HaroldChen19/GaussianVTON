@@ -6,8 +6,7 @@
 
 ## Abstract
 
-> This work introduces GaussianVTON, a novel 3D Virtual Try-On framework via 3D Gaussian Splatting editing. 
-The increasing prominence of e-commerce has underscored the importance of Virtual Try-On (VTON).
+> The increasing prominence of e-commerce has underscored the importance of Virtual Try-On (VTON).
 However, previous studies predominantly focus on the 2D realm and rely heavily on extensive data for training.
 Research on  3D VTON primarily centers on garment-body shape compatibility, a topic extensively covered in 2D VTON.
 Thanks to advances in 3D scene editing, a 2D diffusion model has now been adapted for 3D editing via multi-viewpoint editing.
