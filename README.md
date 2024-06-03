@@ -37,6 +37,11 @@ perspective on 3D VTON while also establishing a novel starting point for image-
 Full code coming soon!
 
 
+## Acknowledgements
+
+GaussianVTON is built on top of [GaussianEditor](https://github.com/buaacyw/GaussianEditor)and [Ladi-VTON](https://github.com/miccunifi/ladi-vton). Thanks for their awesome work!
+
+
 ## Citation
 
 If you find this work useful, please consider citing our paper:
