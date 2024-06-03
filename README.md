@@ -39,7 +39,7 @@ Full code coming soon!
 
 ## Acknowledgements
 
-GaussianVTON is built on top of [GaussianEditor](https://github.com/buaacyw/GaussianEditor)and [Ladi-VTON](https://github.com/miccunifi/ladi-vton). Thanks for their awesome work!
+GaussianVTON is built on top of [GaussianEditor](https://github.com/buaacyw/GaussianEditor) and [Ladi-VTON](https://github.com/miccunifi/ladi-vton). Thanks for their awesome work!
 
 
 ## Citation
