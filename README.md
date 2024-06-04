@@ -47,12 +47,10 @@ GaussianVTON is built on top of [GaussianEditor](https://github.com/buaacyw/Gaus
 If you find this work useful, please consider citing our paper:
 
 ```bash
-@misc{chen2024gaussianvton,
-      title={GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting}, 
-      author={Haodong Chen and Yongle Huang and Haojian Huang and Xiangsheng Ge and Dian Shao},
-      year={2024},
-      eprint={2405.07472},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{chen2024gaussianvton,
+  title={GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting},
+  author={Chen, Haodong and Huang, Yongle and Huang, Haojian and Ge, Xiangsheng and Shao, Dian},
+  journal={arXiv preprint arXiv:2405.07472},
+  year={2024}
 }
 ```
